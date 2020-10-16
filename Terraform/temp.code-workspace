@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "Packer_Jenkins_AMI",
+			"path": "../../Packer_Jenkins_AMI"
+		},
+		{
+			"name": "spring-demoApp",
+			"path": "../../spring-demoApp"
+		}
+	],
+	"settings": {}
+}
